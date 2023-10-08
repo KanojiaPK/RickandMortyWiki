@@ -9,7 +9,7 @@ function Card({name , status ,species , image , location }){
         
        <div className="col-4 postion-relative">    
        <div className=" m-2 ">
-          <div className="card" style={{backgroundColor:'#a9d3e9'}} >
+          <div className="card" style={{borderColor:'#0d6efd'}} >
       <div className="row ">
       
             <img  className="img img-fluid" src={image}  alt="character" />
