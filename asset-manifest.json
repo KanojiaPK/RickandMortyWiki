@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.860e265f.css",
-    "main.js": "/react-gh-pages/static/js/main.87f62794.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.860e265f.css.map": "/react-gh-pages/static/css/main.860e265f.css.map",
-    "main.87f62794.js.map": "/react-gh-pages/static/js/main.87f62794.js.map"
+    "main.css": "/RickandMortyWiki/static/css/main.860e265f.css",
+    "main.js": "/RickandMortyWiki/static/js/main.87f62794.js",
+    "index.html": "/RickandMortyWiki/index.html",
+    "main.860e265f.css.map": "/RickandMortyWiki/static/css/main.860e265f.css.map",
+    "main.87f62794.js.map": "/RickandMortyWiki/static/js/main.87f62794.js.map"
   },
   "entrypoints": [
     "static/css/main.860e265f.css",
